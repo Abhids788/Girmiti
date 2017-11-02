@@ -1,2 +1,3 @@
 # Girmiti
 Automate
+Commit
